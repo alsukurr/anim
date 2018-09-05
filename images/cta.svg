@@ -1,11 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="16px" height="16px" viewBox="0 0 16 16" enable-background="new 0 0 16 16" xml:space="preserve">
-<path fill="none" stroke="#FFFFFF" stroke-width="1.184" stroke-miterlimit="10" d="M6.386,11.35c-0.951-0.95-0.951-2.492,0-3.444
-	c0.952-0.952,2.494-0.952,3.446,0c0.951,0.952,0.951,2.494,0,3.444C8.88,12.302,7.337,12.302,6.386,11.35z M15,9.628l-3.444-3.445
-	c-1.903-1.903-4.989-1.903-6.892,0c-1.903,1.902-1.903,4.987,0,6.891c1.902,1.902,4.988,1.902,6.892,0L15,9.628z"/>
-<path fill="none" stroke="#FFFFFF" stroke-width="1.184" stroke-miterlimit="10" d="M1.315,9.718L4.697,13.1
-	c1.868,1.867,4.896,1.867,6.765,0c1.867-1.868,1.867-4.896,0-6.764c-1.869-1.868-4.896-1.868-6.765,0L1.315,9.718z"/>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 158 114" style="enable-background:new 0 0 158 114;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{display:inline;}
+	.st2{opacity:0.1;fill:#DE0613;}
+	.st3{fill:#ECEFF3;}
+	.st4{fill:#1F193D;}
+	.st5{fill:#FF2244;}
+	.st6{fill:#F597B2;}
+	.st7{fill:#9482EE;}
+	.st8{fill:#F0CFDA;}
+	.st9{fill:#CCCAEB;}
+	.st10{fill:#666666;}
+	.st11{fill:#1A2028;}
+	.st12{fill:#313166;}
+	.st13{fill:#710EFF;}
+	.st14{fill:#F3F3F3;}
+	.st15{fill:#4A5C70;}
+	.st16{opacity:0.19;}
+	.st17{fill:none;stroke:#FF2244;stroke-miterlimit:10;}
+	.st18{fill:#FFFFFF;}
+	.st19{fill:#F1F3F7;}
+	.st20{opacity:0.8;}
+	.st21{fill:#6D6E71;}
+	.st22{fill:none;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st23{fill:#F1F3F7;stroke:#9482EE;stroke-width:0.75;stroke-miterlimit:10;}
+	.st24{fill:none;stroke:#9482EE;stroke-width:0.7308;stroke-miterlimit:10;}
+	.st25{fill:none;stroke:#FF2244;stroke-width:1.25;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st26{fill:none;stroke:#FFFFFF;stroke-width:1.1837;stroke-miterlimit:10;}
+	.st27{fill:none;}
+	.st28{opacity:0.8;fill:none;stroke:#FFFFFF;stroke-width:0.5;stroke-miterlimit:10;}
+	.st29{fill:none;stroke:#FF2244;stroke-width:0.8698;stroke-miterlimit:10;}
+	.st30{fill:none;stroke:#FF845E;stroke-width:0.8038;stroke-miterlimit:10;}
+	.st31{fill:none;stroke:#FF2244;stroke-width:1.3456;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st32{fill:none;stroke:#FF2244;stroke-width:1.6354;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st33{fill:none;stroke:#FF2244;stroke-width:1.2391;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st34{fill:none;stroke:#FF2244;stroke-width:1.1774;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st35{fill:none;stroke:#FFFFFF;stroke-width:0.8309;stroke-miterlimit:10;}
+	.st36{fill:#F7F5F6;}
+	.st37{fill:none;stroke:#1F193D;stroke-width:0.4566;stroke-miterlimit:10;}
+	.st38{opacity:0.8;fill:none;stroke:#1F193D;stroke-width:0.5;stroke-miterlimit:10;}
+	.st39{fill:#F1F3F7;stroke:#9482EE;stroke-width:0.4538;stroke-miterlimit:10;}
+</style>
+<g id="grid">
+</g>
+<g id="_x32_4_Grid_Col_1_" class="st0">
+</g>
+<g id="BACK">
+</g>
+<g id="Artwork">
+	<path class="st26" d="M29.7,56.1L54.6,81l0,0c13.8,13.8,36.1,13.8,49.8,0c13.8-13.8,13.8-36.1,0-49.8s-36.1-13.8-49.8,0l0,0l0,0
+		L29.7,56.1z"/>
+	<path class="st26" d="M67.1,68.6c-6.9-6.9-6.9-18,0-24.9c6.9-6.9,18-6.9,24.9,0c6.9,6.9,6.9,18,0,24.9S74,75.4,67.1,68.6z
+		 M129.4,56.1l-24.9-24.9l0,0c-13.8-13.8-36.1-13.8-49.8,0c-13.8,13.8-13.8,36.1,0,49.8s36.1,13.8,49.8,0l0,0l0,0L129.4,56.1z"/>
+</g>
 </svg>

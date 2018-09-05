@@ -313,7 +313,7 @@
     width: 40px;
     height: 40px;
     display: inline-block;
-    background-image: url("../images/logoletter.png");
+    background-image: url("../images/logoletter.svg");
     background-repeat: no-repeat;
     background-size: contain;
     margin-right: 20px;
@@ -473,6 +473,10 @@
     grid-row: 3 / 3;
     grid-column: 3 / 3;
   }
+
+  .symbol img {
+    width: 70px;
+  }
   
   .cta__item {
     -webkit-box-flex: 1;
@@ -539,6 +543,9 @@
   }
   .about_header li {
       display: none;
+  }
+  .about_header h4 img {
+    width: 130px;
   }
   .about__item .copy a{
     color: #f3f3f3;
@@ -669,6 +676,9 @@
   .block {
     padding: 40px 2em;
     background: #eceff3;
+  }
+  .block img {
+      width: 30%;
   }
   
   @media only screen and (max-width: 600px) {
@@ -929,6 +939,9 @@
     background-color: #f24;
     text-align: center;
     padding: 60px 2em;
+  }
+  .cta_main .symbol img {
+      width: 120px;
   }
   
   @media only screen and (max-width: 600px) {
