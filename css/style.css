@@ -449,6 +449,12 @@
       grid-template-columns: 130px 150px 1fr;
       grid-template-rows: 30px 30px 1fr;
   }
+  @media only screen and (max-width: 600px) {
+    .cta__item.visual {
+        /* display: none; */
+        width: 100%;
+    }
+  }
   
   .hide {
     -webkit-box-shadow: 10px 10px 26px -2px rgba(0,0,0,0.25);
@@ -793,8 +799,8 @@
       margin-bottom: 40px;
     }
   
-    .section_left__visual img,
-    .section_right__visual img {
+    .section_left__visual .lot,
+    .section_right__visual .lot {
       width: 100%;
     }
   }
