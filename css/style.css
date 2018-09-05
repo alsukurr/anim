@@ -367,6 +367,9 @@
     transform: translateX(-50%);
     display: block;
   }
+  .lot {
+      width: 100%;
+  }
   .top-animation #lottie-m {
       display: none;
   }
