@@ -334,7 +334,7 @@
     text-decoration: none;
   }
   
-  .main_wrapper {
+  main {
     display: grid;
     grid-template-columns: 1fr;
     /* max-width: 1300px; */
@@ -488,7 +488,7 @@
   }
   
   @media only screen and (max-width: 600px) {
-    .cta {
+    .cta .content__wrapper {
       -webkit-box-orient: vertical;
       -webkit-box-direction: normal;
       -ms-flex-direction: column;
@@ -664,8 +664,7 @@
   
   @media only screen and (max-width: 600px) {
     .block {
-      margin-top: 40px;
-      margin-bottom: 40px;
+        padding: 80px 2em;
     }
   
     .block img {
