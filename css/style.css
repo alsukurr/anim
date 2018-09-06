@@ -391,7 +391,7 @@
   }
   @media only screen and (max-width: 600px) {
     .top-animation #lottie-m {
-        display: block;
+        /* display: block; */
     }
     .top-animation #lottie {
         display: none;
