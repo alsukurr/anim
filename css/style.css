@@ -281,19 +281,22 @@
     }
   }
   header.top {
-    display: grid;
-    grid-template-columns: repeat(2, auto);
     position: fixed;
     top: 0;
     left: 0;
     z-index: 9999;
     width: 100%;
-    max-width: 1500px;
+    background-color: #fff;
+  }
+
+  header.top .content__wrapper {
+    display: grid;
+    grid-template-columns: repeat(2, auto);
+    max-width: 1300px;
     text-align: center;
     -webkit-box-align: end;
     -ms-flex-align: end;
     align-items: end;
-    background-color: #fff;
   }
   
   @media only screen and (max-width: 600px) {
@@ -307,11 +310,16 @@
     display: grid;
     grid-template-columns: auto auto;
     align-items: end;
+    align-self: stretch;
+  }
+
+  header.top .logo img {
+      height: 38px;
   }
   
   header.top span {
     width: 40px;
-    height: 40px;
+    height: 100%;
     display: inline-block;
     background-image: url("../images/logoletter.svg");
     background-repeat: no-repeat;
