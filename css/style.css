@@ -264,6 +264,13 @@
     text-align: left;
     font-family: "DINPro Light", san-serif;
   }
+
+  @media only screen and (max-width: 600px) {
+    h2 {
+      font-size: 25px;
+      line-height: 27px;
+    }
+  }
   
   p {
     font-family: "DINPro Regular", san-serif;
@@ -272,12 +279,13 @@
   
   @media only screen and (max-width: 600px) {
     p {
-      font-size: 12px;
+      font-size: 15px;
+      line-height: 18px;
     }
   }
   @media only screen and (max-width: 600px) {
     a {
-      font-size: 12px;
+      font-size: 15px;
     }
   }
   header.top {
@@ -387,6 +395,9 @@
     }
     .top-animation #lottie {
         display: none;
+    }
+    .top-animation {
+        padding: 20px;
     }
 
   }
@@ -664,7 +675,7 @@
   
   @media only screen and (max-width: 600px) {
     .about__bio h5 {
-      font-size: 12px;
+      font-size: 15px;
     }
   }
   .about__bio p {
@@ -763,7 +774,7 @@
   
   @media only screen and (max-width: 600px) {
     .footer p {
-      font-size: 9px;
+      font-size: 15px;
       text-align: right;
     }
   }
