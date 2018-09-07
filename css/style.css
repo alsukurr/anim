@@ -310,6 +310,7 @@
   @media only screen and (max-width: 600px) {
     header.top {
       grid-template-columns: 1fr 1fr;
+      position: static;
     }
   }
   header.top .logo {
@@ -348,6 +349,13 @@
     color: #f24;
     font-family: "DINPro Regular", san-serif;
     text-decoration: none;
+    -webkit-transition: all 0.3s cubic-bezier(0.64, 0.09, 0.08, 1);
+    transition: all 0.3s cubic-bezier(0.64, 0.09, 0.08, 1);
+  }
+  header.top a:hover{
+    border: 1px solid #fff;
+    color: #fff;
+    background: #f24;
   }
   
   main {
@@ -384,7 +392,6 @@
     display: block;
   }
   .lot {
-    background-color:#fff;
     width:100%;
     height:100%;
     display:block;
@@ -407,6 +414,7 @@
     }
     .top-animation {
         padding: 20px;
+        margin-top: 0;
     }
 
   }
@@ -607,7 +615,7 @@
   }
   
   .about__item .copy a:hover,
-  .about__item .copy a:hover {
+  .about__item .copy a:focus {
     background-position: 0 0;
   }
   
@@ -1012,6 +1020,7 @@
   
   .cta_main input[type="email"] {
     max-width: 350px;
+    width: 100%;
     color: #8e827a;
     margin-bottom: 20px;
     text-align: center;
@@ -1020,7 +1029,7 @@
     border-bottom: #fff solid 1px;
     z-index: 2;
     border-radius: 0px;
-    font-size: 40px;
+    font-size: 18px;
     -webkit-transition: all 0.3s cubic-bezier(0.64, 0.09, 0.08, 1);
     transition: all 0.3s cubic-bezier(0.64, 0.09, 0.08, 1);
     background: -webkit-gradient(linear, left top, left bottom, color-stop(98%, rgba(255, 255, 255, 0)), color-stop(2%, #fff));
@@ -1028,6 +1037,7 @@
     background-position: -500px 0;
     background-size: 100% 100%;
     background-repeat: no-repeat;
+    padding-bottom: 5px;
     color: #fff;
   }
   
@@ -1049,7 +1059,7 @@
     font-family: "DINPro Light", san-serif;
   }
   
-  .cta_main button {
+  .cta_main input[type="submit"] {
     border-radius: 0px 18px 18px 18px;
     padding: 10px 20px;
     border: 1px solid #fff;
@@ -1058,5 +1068,12 @@
     color: #fff;
     margin-top: 30px;
     display: inline-block;
+    -webkit-transition: all 0.3s cubic-bezier(0.64, 0.09, 0.08, 1);
+    transition: all 0.3s cubic-bezier(0.64, 0.09, 0.08, 1);
+  }
+  .cta_main input[type="submit"]:hover {
+    color: #f24;
+    border: 1px solid #f24;
+    background: #fff;
   }
   
