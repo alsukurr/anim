@@ -400,6 +400,9 @@
     .top-animation #lottie-m {
         display: block;
     }
+    .top-animation #lottie-m svg {
+        max-width: 375px;
+    }
     .top-animation #lottie {
         display: none;
     }
