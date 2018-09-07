@@ -401,7 +401,7 @@
         display: block;
     }
     .top-animation #lottie-m svg {
-        max-width: 375px;
+        /* max-width: 375px; */
     }
     .top-animation #lottie {
         display: none;
@@ -483,8 +483,8 @@
   }
   @media only screen and (max-width: 600px) {
     .cta__item.visual {
-        /* display: none; */
-        width: 100%;
+        display: none;
+        /* width: 100%; */
     }
   }
   
