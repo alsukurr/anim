@@ -701,7 +701,7 @@
   
   @media only screen and (max-width: 600px) {
     .about__bio h5 {
-      font-size: 15px;
+      font-size: 20px;
     }
   }
   .about__bio p {
