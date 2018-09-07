@@ -1076,4 +1076,18 @@
     border: 1px solid #f24;
     background: #fff;
   }
+  #mc_embed_signup #mce-success-response {
+      color: #fff !important;
+      padding: 0 !important;
+      margin: 0 !important;
+  }
+  #mc_embed_signup form {
+      text-align: center !important;
+  }
+  #mc_embed_signup form {
+      padding: 0 !important;
+  }
+  #mc_embed_signup .mc-field-group {
+      width: 100% !important;
+  }
   
