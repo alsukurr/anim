@@ -1013,12 +1013,12 @@
     text-align: center;
   }
   
-  .cta_main input {
+  .cta_main #mc_embed_signup input {
     display: block;
     margin: 0 auto;
   }
   
-  .cta_main input[type="email"] {
+  .cta_main #mc_embed_signup input[type="email"] {
     max-width: 350px;
     width: 100%;
     color: #8e827a;
@@ -1042,24 +1042,24 @@
   }
   
   @media only screen and (max-width: 600px) {
-    .cta_main input[type="email"] {
+    .cta_main #mc_embed_signup input[type="email"] {
       width: 100%;
     }
   }
-  .cta_main input[type="email"]:focus {
+  .cta_main #mc_embed_signup input[type="email"]:focus {
     -webkit-box-shadow: none;
     box-shadow: none;
     outline: none;
     background-position: 0 0;
   }
   
-  .cta_main input[type="email"]::-webkit-input-placeholder {
+  .cta_main #mc_embed_signup input[type="email"]::-webkit-input-placeholder {
     font-size: 18px;
     color: #fff;
     font-family: "DINPro Light", san-serif;
   }
   
-  .cta_main input[type="submit"] {
+  .cta_main #mc_embed_signup input[type="submit"] {
     border-radius: 0px 18px 18px 18px;
     padding: 10px 20px;
     border: 1px solid #fff;
@@ -1071,7 +1071,7 @@
     -webkit-transition: all 0.3s cubic-bezier(0.64, 0.09, 0.08, 1);
     transition: all 0.3s cubic-bezier(0.64, 0.09, 0.08, 1);
   }
-  .cta_main input[type="submit"]:hover {
+  .cta_main #mc_embed_signup input[type="submit"]:hover {
     color: #f24;
     border: 1px solid #f24;
     background: #fff;
