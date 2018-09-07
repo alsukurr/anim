@@ -289,9 +289,9 @@
     }
   }
   header.top {
-    position: fixed;
+    /* position: fixed;
     top: 0;
-    left: 0;
+    left: 0; */
     z-index: 9999;
     width: 100%;
     background-color: #fff;
@@ -374,7 +374,7 @@
   }
   
   .top-animation {
-    margin-top: 95px;
+    /* margin-top: 95px; */
     background-color: #fff;
     padding: 0 80px;
     padding-top: 20px;
@@ -383,13 +383,13 @@
   }
   
   .top-animation::after {
-    content: url("./images/arrow.png");
-    position: absolute;
+    /* content: url("./images/arrow.png"); */
+    /* position: absolute;
     left: 50%;
     bottom: 10px;
     -webkit-transform: translateX(-50%);
     transform: translateX(-50%);
-    display: block;
+    display: block; */
   }
   .lot {
     width:100%;
@@ -1081,6 +1081,7 @@
       padding: 0 !important;
       margin: 0 !important;
       font-size: 16px;
+      font-family: "DINPro Regular", san-serif;
   }
   #mc_embed_signup form {
       text-align: center !important;
